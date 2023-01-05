@@ -1,0 +1,43 @@
+body {
+    font-family: Helvetica;
+}
+
+div.container {
+    margin:auto;
+    padding:10px;
+    /* border: 1px solid red; reference */
+}
+
+h1.title {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight:bold;
+    color:khaki;
+    text-align:center;
+    background-image: url(pattern.jpeg);
+}
+
+h2.category {
+    font-family:Helvetica;
+    font-size:32px;
+    font-weight:bold;
+    color:white;
+}
+
+.green {
+    background-color: mediumspringgreen;
+}
+
+.coral {
+    background-color: lightcoral;
+}
+
+.skyblue {
+    background-color: skyblue;
+}
+
+span.price {
+    font-family:Helvetica;
+    font-weight:bold;
+    color:blue;
+}
