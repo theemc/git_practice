@@ -1,16 +1,16 @@
-#Project Escape-86
-##About Escape-86
+# Project Escape-86
+## About Escape-86
 I chose to create this project as a way to escape my current job and build a foundation to launch a future career that is not at building 86.
 
-##Features
-+Many miscellaneous mini-projects completed on Codecademy.
-+Fun side projects I ventured into on my own
-+Some other miscellenaeous challenges and projects from a book entitled *Eloquent JavaScript*
+## Features
++ Many miscellaneous mini-projects completed on Codecademy.
++ Fun side projects I ventured into on my own
++ Some other miscellenaeous challenges and projects from a book entitled *Eloquent JavaScript*
 
-##Instructions
+## Instructions
 Well, uhhmmm. There really aren't any, so... yeah. As of now, most of these programs are simply run and logged to console. So, just put them in your favorite debugger and try them out!
 
-##Technologies
+## Technologies
 1. JavaScript
   Most of the projects here (so far) are built in JavaScript.
 2. HTML
@@ -18,10 +18,10 @@ Well, uhhmmm. There really aren't any, so... yeah. As of now, most of these prog
 3. CSS
   Works really well with HTML, so yeah.
 
-##Collaborators
+## Collaborators
 All coding on this project has been completed by myself, though I would like to thank my current place of employment for its ample motivation and support.
 
-##License
+## License
 MIT License
 
 Copyright (c) 2023 Christopher Giampietro
