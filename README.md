@@ -12,11 +12,11 @@ Well, uhhmmm. There really aren't any, so... yeah. As of now, most of these prog
 
 ## Technologies
 1. JavaScript
-  Most of the projects here (so far) are built in JavaScript.
+    Most of the projects here (so far) are built in JavaScript.
 2. HTML
-  Works really well with JavaScript, so yeah.
+    Works really well with JavaScript, so yeah.
 3. CSS
-  Works really well with HTML, so yeah.
+    Works really well with HTML, so yeah.
 
 ## Collaborators
 All coding on this project has been completed by myself, though I would like to thank my current place of employment for its ample motivation and support.
